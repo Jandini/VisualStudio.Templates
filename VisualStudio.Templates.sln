@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualStudio.Templates", "VisualStudio.Templates\VisualStudio.Templates.csproj", "{680F302F-EFE2-4AAC-A715-299824C8EDC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualStudio.Templates", "src\VisualStudio.Templates\VisualStudio.Templates.csproj", "{680F302F-EFE2-4AAC-A715-299824C8EDC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
