@@ -10,6 +10,10 @@
     </Installation>
     <Dependencies>
     </Dependencies>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="Project" d:ProjectName="ClassLibrary.Template" d:TargetPath="|ClassLibrary.Template;TemplateProjectOutputGroup|" Path="ProjectTemplates" d:VsixSubPath="ProjectTemplates" />
+    </Assets>
+
     <Prerequisites>
         <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,16.0)" DisplayName="Visual Studio core editor" />
     </Prerequisites>
