@@ -55,7 +55,7 @@
     <ProjectReference Include="..\ClassLibrary.Template\ClassLibrary.Template.csproj">
       <Project>{EC9B3FF8-A149-4F18-B4A4-80E361F7A8E2}</Project>
       <Name>ClassLibrary.Template</Name>
-      <VSIXSubPath>ProjectTemplates</VSIXSubPath>
+      <VSIXSubPath>ProjectTemplates\New Style</VSIXSubPath>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <IncludeOutputGroupsInVSIX>TemplateProjectOutputGroup%3b</IncludeOutputGroupsInVSIX>
     </ProjectReference>
