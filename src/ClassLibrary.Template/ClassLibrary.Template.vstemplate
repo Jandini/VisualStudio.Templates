@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VSTemplate Version="3.0.0" Type="Project" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
   <TemplateData>
-    <Name>New Style ClassLibrary with GitVersionTask (.NET Framework)</Name>
-    <Description>New Style ClassLibrary with GitVersionTask (.NET Framework)</Description>
+    <Name>ClassLibrary (.NET Core) with GitVersion and Obfuscar </Name>
+    <Description>ClassLibrary (.NET Core) with GitVersion and Obfuscar</Description>
     <Icon>ClassLibrary.Template.ico</Icon>
     <ProjectType>CSharp</ProjectType>
     <ProjectSubType>

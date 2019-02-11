@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="VisualStudio.Templates.dd354ab3-f6af-4c26-8b88-2a05b5ffe471" Version="1.0" Language="en-US" Publisher="Matt Janda" />
         <DisplayName>VisualStudio.Templates</DisplayName>
-        <Description xml:space="preserve">Visual Studio 2017 New Style Project Templates</Description>
+        <Description xml:space="preserve">Visual Studio 2017 .NET Core Project Templates</Description>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0, 16.0)" />
